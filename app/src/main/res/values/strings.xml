@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TSDMH252_JJVRP1E4</string>
+    <string name="p1">Pantalla 1</string>
+    <string name="btn">Cambio de pantalla1</string>
+    <string name="btn2">Cambio de pantalla2</string>
+    <string name="ps1">Esta es mi pantalla secundaria 1</string>
+    <string name="ps2">Esta es mi pantalla secundaria 2</string>
+</resources>
